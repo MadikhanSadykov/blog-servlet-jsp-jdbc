@@ -1,3 +1,4 @@
 .idea/
-external/
+src/main/webapp/media/*
+target/
 *.iml
